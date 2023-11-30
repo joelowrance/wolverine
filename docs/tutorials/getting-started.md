@@ -44,7 +44,7 @@ a POST from the client that...
 1. Creates a new `Issue`, stores it, and triggers an email to internal personnel.
 2. Assigns an `Issue` to an existing `User` and triggers an email to that user letting them know there's more work on their plate
 
-The two *commands* for the POST endpoints are below:
+The *command* for the POST endpoint used in this example is:
 
 <!-- snippet: sample_Quickstart_commands -->
 <a id='snippet-sample_quickstart_commands'></a>
